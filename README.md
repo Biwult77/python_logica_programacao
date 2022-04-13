@@ -9,7 +9,7 @@
 
 Cada um dos módulos foi encerrado com um projeto com foco nas habilidades desenvolvidas:
 
-# Projeto 01 - black_friday 
+# Projeto 01 - Estoque
 
 A partir do acesso a uma arquivo dado (dados.json) com uma lista de dicionários, onde cada dicionário representa um produto com: 
 ID (identificador único), o preço e a categoria do produto. 
@@ -21,7 +21,7 @@ Funções implementadas:
 - identificar o produto mais barato e o mais caro de uma categoria e 
 - o top 10 de produtos mais baratos e mais caros de toda a base de dados.
 
-# Projeto 02 - loja_bike
+# Projeto 02 - Bicicletas
 
 Sistema de Empréstimo de Bicicletas a partir de duas classes principais (Cliente, Loja).
 
@@ -42,7 +42,7 @@ Loja pode: <br>
 - O cliente pode decidir livremente quantas bicicletas quer alugar; <br>
 - Os pedidos de aluguéis só podem ser efetuados se houver bicicletas suficientes disponíveis.
 
-# Projeto 03 - busca_rios
+# Projeto 03 - Rios
 
 Dada uma lista bi-dimensional com altura e largura não necessáriamente iguais contendo apenas 0's e 1's. 
 Cada 1 representa um pedaço de rio, enquanto os 0's representam terra. Rios são compostos por 1's adjacentes horizontalmente ou verticalmente (mas não diagonalmente). 
@@ -52,7 +52,7 @@ O rio pode fazer curvas, isto é, rios podem ter formato de L ou até mesmo de c
 
 Criado um algoritmo que recebe esta lista bi-dimensional e retorna uma lista com os tamanhos dos rios dentro dessa estrutura, os tamanhos de rios dentro da lista resposta não precisam ter uma ordem específica.
 
-# Projeto 04 - escola
+# Projeto 04 - Escola
 
 Dados modelo entidade relacinal e um modelo relacional a partir do DER: 
 
